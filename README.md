@@ -35,7 +35,9 @@ a = 65, b = 75, c = 85, d = 80, e = 70, f = 90, g = 80, h = 1, i = 1, j = 0
 # Contributions:
 The project is a solo assignment.
 
-#Screenshots and Examples:
+# Screenshots and Examples:
 
 <img width="411" alt="image" src="https://user-images.githubusercontent.com/104126957/236250940-fc88c872-4838-4367-bfed-be406c74b525.png">
+
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/104126957/236251486-6b653980-1014-42d3-bf03-0a746ca3572e.png">
 
