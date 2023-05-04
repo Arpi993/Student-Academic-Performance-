@@ -41,3 +41,4 @@ The project is a solo assignment.
 
 <img width="365" alt="image" src="https://user-images.githubusercontent.com/104126957/236251486-6b653980-1014-42d3-bf03-0a746ca3572e.png">
 
+<img width="396" alt="image" src="https://user-images.githubusercontent.com/104126957/236251826-5bec67b7-4bf9-4fa4-bf5f-65f11b52c917.png">
