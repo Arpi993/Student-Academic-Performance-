@@ -35,6 +35,7 @@ a = 65, b = 75, c = 85, d = 80, e = 70, f = 90, g = 80, h = 1, i = 1, j = 0
 # Contributions:
 The project is a solo assignment.
 
-Screenshots and Examples:
-(insert screenshots or examples of data visualizations or analysis here)
+#Screenshots and Examples:
+
+<img width="411" alt="image" src="https://user-images.githubusercontent.com/104126957/236250940-fc88c872-4838-4367-bfed-be406c74b525.png">
 
